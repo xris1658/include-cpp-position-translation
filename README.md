@@ -59,8 +59,8 @@ CppCon 做出了一些不当的决定。我们相对着重于提及以下几点�
 - CppCon 和标准 C++ 委员会的透明性和公共责任
   - 标准 C++ 委员会对此事件全面公开的报告
   - CppCon 行为准则的年度公报
-  - 标准 C++ 委员会会议的公开内容摘录（例如 [Python 软件委员会的示例](https://www.python.org/psf/records/board/minutes/)）
-  - 
+  - 标准 C++ 委员会会议的公开内容摘录（[Python 软件委员会的示例](https://www.python.org/psf/records/board/minutes/)）
+  - 标准 C++ 委员会活动和决策的年度报告（[Python 软件委员会的示例](https://www.python.org/psf/annual-report/2021/)）
 - CppCon 领导团队的改变
   - 建立一个透明、多样的 CppCon 指导委员会，其权利高于 CppCon。CppCon 参会人员应推选 CppCon 指导委员会，且拥有短期限制
   - 标准 C++ 委员会人员的改变
