@@ -1,6 +1,6 @@
 # 【翻译】 #include <C++> 在 CppCon 安全事件中的主张
 原文：[#include ＜C++＞ Position on CppCon Safety ](https://www.includecpp.org/posts/communication-cppcon/)  
-原文未注明时间。  
+原文时间：2022-03-14  
 翻译时间：2022-03-30 15:00:00 CST
 
 ## 译者声明
